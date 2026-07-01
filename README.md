@@ -3,7 +3,7 @@
 Unofficial local Microbot rebuild artifacts.
 
 Current release asset:
-- `Zim-Edition-2.6.10-zim.jar`
+- `Mircobot - Zim Edition 2.6.10.jar`
 
 Built against RuneLite `1.12.31.1`.
 
