@@ -1,6 +1,6 @@
-# microbot-jar
+# Microbot Client
 
-Unofficial local Microbot rebuild artifacts.
+Microbot rebuilt By: Zimada
 
 Current release asset:
 - `Mircobot - Zim Edition 2.6.10.jar`
