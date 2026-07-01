@@ -1,9 +1,9 @@
-# Microbot Client
+# Mircobot - Zim Edition
 
-Microbot rebuilt By: Zimada
+Unofficial local Microbot rebuild artifact.
 
-Current release asset:
-- `Mircobot - Zim Edition 2.6.10.jar`
+Launcher-compatible jar:
+- `microbot-Mircobot - Zim Edition 2.6.10.jar`
 
 Built against RuneLite `1.12.31.1`.
 
